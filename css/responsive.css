@@ -19,7 +19,7 @@
         .home_item1{
             width: 100%;
             background-image: url(/img/home.jpg);
-            background-size: 100% 100%;
+            background-size: 100%;
             background-repeat: no-repeat;
         }
         
@@ -35,7 +35,7 @@
         
         .home_item1 h1{
             color: #b48d60;
-            font-size: 130px;
+            font-size: 120px;
             padding-bottom: 1rem;
         }
         
